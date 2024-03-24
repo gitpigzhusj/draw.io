@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T15:07:22.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Ev_r14_jkmwOx2CkRaGm" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-24T15:26:44.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="QFw4ALYEBIWtyWbhXtVJ" version="24.0.7" type="github">
   <diagram name="第 1 页" id="7Qjpa9ZFu0fZMU6uaSOI">
     <mxGraphModel dx="1981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -458,6 +458,12 @@
         </mxCell>
         <mxCell id="J8r5YEhEiruuwfq2tm1J-1" value="橱窗规则" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2830" y="2000" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J8r5YEhEiruuwfq2tm1J-2" value="电商创作者规范" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2835" y="1690" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J8r5YEhEiruuwfq2tm1J-3" value="商家规定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="1630" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
